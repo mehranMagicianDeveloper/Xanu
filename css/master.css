@@ -4,3 +4,8 @@ html, body {
   outline: 0;
   text-decoration: none;
 }
+
+body {
+  font-family: sans-serif;
+  font-size: 14px;
+}
